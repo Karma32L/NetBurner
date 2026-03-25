@@ -26,7 +26,7 @@ pip install psutil websockets pystray pillow
 
 Si NetBurner te ha sido útil para auditar tu red, monitorear tus conexiones o simplemente te gusta el proyecto, considera invitarme un café para seguir desarrollando herramientas:
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]([ko-fi.com/karma32l](https://ko-fi.com/karma32l))
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/karma32l)
 
 
 
