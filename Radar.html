@@ -70,7 +70,7 @@
         });
 
         // === CONEXIÓN AL MOTOR PYTHON ===
-        const ws = new WebSocket("ws://100.100.187.34:8765");
+        const ws = new WebSocket("ws://#tu ip local");
 
         ws.onopen = () => {
             document.getElementById('status').innerHTML = "🟢 Conexión Establecida";
