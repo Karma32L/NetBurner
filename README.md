@@ -19,12 +19,14 @@ NetBurner es un sistema de auditoría y monitoreo de red en tiempo real. Está d
 
 1. Clona este repositorio o descarga los archivos.
 2. Abre tu terminal de preferencia y ejecuta el siguiente comando para instalar las dependencias necesarias:
-
 ```bash
 pip install psutil websockets pystray pillow
-
+```
 ## ☕ Apoya este proyecto
 
 Si NetBurner te ha sido útil para auditar tu red, monitorear tus conexiones o simplemente te gusta el proyecto, considera invitarme un café para seguir desarrollando herramientas:
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/karma32l)
+
+
+
